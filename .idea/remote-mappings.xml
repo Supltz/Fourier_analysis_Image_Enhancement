@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sshConfig://tangzhenglian@152.71.142.148:22 password/home/tangzhenglian/Desktop/Scripts/Anaconda3/envs/myenv/bin/python3.9">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/../FFT" remote-root="/home/tangzhenglian/Desktop/FFT" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
